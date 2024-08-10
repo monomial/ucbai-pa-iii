@@ -83,8 +83,6 @@ Before running this project, you need to have Python installed on your system al
 - scikit-learn
 - matplotlib
 - seaborn
-- shap (for SHAP value explanations)
-- xgboost (if you decide to use XGBoost)
 
 ### Installation
 Clone this repository to your local machine:
