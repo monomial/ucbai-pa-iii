@@ -45,14 +45,13 @@ Below are plots showing the distribution of term deposit subscriptions by differ
 
 ![Subscription Distribution by Days Since Previous Campaign Contact](/plots/subscription_distribution_pdays.png)
 
-This visualization provides insights into which client attributes are most strongly associated with term deposit subscriptions, guiding the feature selection process.
+These visualizations provides insights into which attributes are most strongly associated with term deposit subscriptions, guiding the feature selection process.
 
 ## Key Findings
 
 ### Predictive Power of Features
 The analysis revealed that certain features are particularly influential in predicting term deposit subscriptions:
 - **Previous Campaign Outcome**: The outcome of previous marketing campaigns (poutcome) is one of the strongest predictors.
-- **Duration of Contact**: The length of the last contact with the client significantly impacts the likelihood of subscription.
 - **Economic Indicators**: Variables like the euribor 3-month rate and employment variation rate also play a critical role in influencing subscription decisions.
 - **Pdays**: Whether a client was contacted in a previous campaign (and how recently) significantly affects the likelihood of a successful subscription.
 
